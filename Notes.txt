@@ -1,0 +1,5 @@
+what is slice ?
+slice is something that comprises of my state, reducers and my actions, with redux toolkit they introduced something called slice, and through the function createSlice you can define your state, reducer and actions in a lot more cleaner way.
+
+so in our counter name of slice s counter, that helps to distingish betwenn different slices.
+
